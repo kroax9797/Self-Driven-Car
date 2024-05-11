@@ -82,7 +82,9 @@ python drive.py
 ## Note : 
     * Refer to train.ipynb upto "Train Test Split" section and further in Self-Driving-Car.ipynb from "Loading data preprocessed locally" section . Sorry for the inconvinience caused .
     * For throttle , going above speed of 10mph was ineffective . So throttiing with (1 - (current_speed/10)) was the formula that worked . Anything above that makes the car go here and there . This can be avoided by training the model further and having more data(It's a big question who to get new quality data) .
-    * Fun fact : You can train these models from scratch and test them at every few epochs . It's really fun to watch how the model learns and realise how computers are just dumb but actually fast . 
+    * Fun fact : You can train these models from scratch and test them at every few epochs . It's really fun to watch how the model learns and realise how computers are just dumb but actually fast 
+    .
+    * There is some git lfs issue for bandwidth (I guess I ran out of the limit permitted) . So please bare with the organisation of files as of now . 
 
 ## Contributing
 - Contributions to the project are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.

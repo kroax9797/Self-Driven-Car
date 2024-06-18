@@ -91,10 +91,11 @@ python drive.py
 - Reinforcement Learning approach is very much welcome and I am open for a discussion about it .  
 
 ## Acknowledgments
-Special thanks to Udacity for providing the simulator and resources for learning and experimenting with self-driving cars.
+- Special thanks to Udacity for providing the simulator and resources for learning and experimenting with self-driving cars.
+- You can also refer to the paper titled [End to End Learning for Self Driving Cars](https://arxiv.org/abs/1604.07316) which I tried to follow for some parts as well !
 
 ## Contact
 For any inquiries or questions regarding the project, please contact me on : 
 Mail : [210030039@iitdh.ac.in](mailto:210030039@iitdh.ac.in).
-Mail : [tejasmhaiskar@gmail.com](mailto:tejasmhaiskar@gmail.com).
+Mail : [tejasmhaiskar@gmail.com](mailto:tejasmhaiskar@gmail.com)
 Instagram : kroax97(instagram.com/kroax97)
